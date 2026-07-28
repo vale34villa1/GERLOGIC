@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+pandas
+numpy
+pypdf
+python-docx
+openpyxl
+beautifulsoup4
+unstructured
+python-dotenv
+oci
